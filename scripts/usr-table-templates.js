@@ -188,7 +188,7 @@ const tabela_portifolio= HTMLTemplateElement =
         </tr>
         <tr>
             <td>Lista de Desejos</td>
-            <td style="font-size: 1.5rem;text-align:center"><a href="https://lista-de-desejos.herokuapp.com/view/loja.php" target="_blank"><i class="fas fa-cart-arrow-down"></i></a></td>
+            <td style="font-size: 1.5rem;text-align:center"><i class="fas fa-cart-arrow-down"></i></td>
         </tr>
     </tbody>
 </table>
