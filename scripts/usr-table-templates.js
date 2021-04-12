@@ -23,7 +23,7 @@ const tabela_trajetoria_academica= HTMLTemplateElement =
             <em>"A reitoria do Centro Universitário de Belo Horizonte - UNIBH, <br>no uso de suas atribuições, confere a <strong>JARIO ROCHA DOS SANTOS JUNIOR</strong><br>o título de <strong>destaque acadêmico</strong>, por seu desempenho,<br>entre os formandos do 2° semestre de 2017,<br>como melhor aluno do curso de Gestão de Tecnologia da Informação.<br>
             <br>Belo Horizonte, 20 de Fevereiro de 2018"</em>
         </td>
-        <td style="font-size: 1.5rem;"><i class="fas fa-graduation-cap ementa-curso"></i></td>
+        <td style="font-size: 1.5rem;"><i class="fas fa-graduation-cap"></i></td>
     </tr>
 </tbody>
 `;
