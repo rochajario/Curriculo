@@ -13,7 +13,7 @@ const tabela_trajetoria_academica= HTMLTemplateElement =
         <td>Superior em Análise e Desenvolvimento de Sistemas</td>
         <td>2021/2</td>
         <td>Obtenção de Novo Título</td>
-        <td style="font-size: 1.5rem;"><i class="fas fa-graduation-cap ementa-curso"></i></td>
+        <td style="font-size: 1.5rem;"><a href="https://cdn.una.br/app/uploads/2017/10/31104513/Nova-Matriz-Curricular-Una-Ana%CC%81lise-e-Desenvolvimento-de-Sistemas.pdf" target='_blank'><i class="fas fa-graduation-cap ementa-curso"></i></a></td>
     </tr>
     <tr>
         <td><strong>Centro Universitário de Belo Horizonte - UNIBH</strong></td>
