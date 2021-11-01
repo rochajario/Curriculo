@@ -3,7 +3,7 @@ const tabela_trajetoria_academica= HTMLTemplateElement =
 <thead>
     <th>Instituição</th>
     <th>Curso</th>
-    <th>Conclusão</th>
+    <th>Concluído Em</th>
     <th>Observação</th>
     <th>Ementa</th>
 </thead>
@@ -142,7 +142,19 @@ const tabela_experiencia_profissional= HTMLTemplateElement =
 <tbody>
     <tr>
         <td><strong>Ânima Educação</strong></td>
-        <td>Janeiro de 2020 - Atual</td>
+        <td>Janeiro de 2021 - Atual</td>
+        <td>Desenvolvedor FullStack .NET e</td>
+        <td style="text-align: left">
+            Desenvolvimento de soluções voltadas para o mercado de ensino Brasileiro<br>
+            Utilizando microservissos em aplicações REST com .Net, C# e persistência com Dapper em Bancos de Dados PostgreSql e Oracle<br> 
+            Mensageria com Azure Message Bus CI/CD com Azure DevOps integrado à AWS e GitLab.<br>
+            Desenvolvimento FrontEnd Utilizando Vue.Js.<br>
+            Sustentação à operação e evoluções diversas apoiando deciscões arquieturais e aplicação de melhores práticas como TDD, SOLID e Design Patterns.
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Ânima Educação</strong></td>
+        <td>Janeiro de 2020 - Janeiro de 2021 </td>
         <td>Analista de Redes</td>
         <td style="text-align: left">Transformando o país pela Educação através de arquiteturas<br>e implementações de projetos de conectividade nas camadas 2 e 3<br> do modeloOSI, Gerenciamento de segurança de borda e cooperação<br>com demais áreasde TI.<br>Suporte a ambientes Cloud e On-Premises.</td>
     </tr>
